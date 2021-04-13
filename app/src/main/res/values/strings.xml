@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Proper Practice</string>
+    <string name="testing_123">Testing 123</string>
+    <string name="college_campus">College Campus</string>
+    <string name="grocery_store">Grocery Store</string>
+    <string name="hiking_path">Hiking Path</string>
+    <string name="welcome_to_proper_practice">Welcome to Proper Practice!</string>
+    <string name="please_select_the_location_you_would_like_to_play_in">Select the Location you would like to play in:</string>
+
+
+</resources>
