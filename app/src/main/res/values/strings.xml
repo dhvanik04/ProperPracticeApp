@@ -9,5 +9,13 @@
     <string name="TutorialToast"> To view the Tutorial, Please click the i in the bottom right!</string>
     <string name="todo">TODO</string>
     <string name="todo2">TODO</string>
+    <string name="alert_title_item">Tutorial Info!</string>
+    <string name="thankyou">Thank you for reading the Tutorial!</string>
+    <string name="close">Close</string>
+    <string name="OK">Ok</string>
+    <string name="tutorial_message_item">Instructions: To move up and down, tap on the left half of the screen, and to shoot tap on the right half.
+                                            Make sure to avoid all the obstacles and collect the items you need to stay safe.
+                                            Happy Playing! </string>
+
 
 </resources>
